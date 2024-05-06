@@ -1,0 +1,25 @@
+#Google Drive
+https://drive.google.com/drive/folders/1rEo6HZyb0AC53qoemjFeNUcP4sNHLZcZ?usp=sharing
+
+#Główna strona Pythona
+https://www.python.org/
+
+# Darmowy kurs
+https://pythoninstitute.org/python-essentials-1
+
+https://edube.org/
+#Piaskownica
+https://edube.org/sandbox
+
+
+Inne ciekawe strony:
+https://www.w3schools.com/python/default.asp
+https://pl.python.org/
+
+# funkcje wbudowane
+https://docs.python.org/pl/3/library/functions.html
+
+ 
+https://code.visualstudio.com/Download
+
+https://www.jetbrains.com/pycharm/download/#section=windows
