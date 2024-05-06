@@ -1,5 +1,8 @@
 #Google Drive
-https://drive.google.com/drive/folders/1rEo6HZyb0AC53qoemjFeNUcP4sNHLZcZ?usp=sharing
+https://drive.google.com/drive/folders/1RGSZdpkHQzPealyoII_F-YOM7__u8s26?usp=sharing
+
+# Git Hub
+https://github.com/mariusz7b1/Python_5dniowy
 
 #Główna strona Pythona
 https://www.python.org/
