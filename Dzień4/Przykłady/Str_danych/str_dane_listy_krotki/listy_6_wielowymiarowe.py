@@ -1,19 +1,19 @@
 # list 2 wymiary
-lst0 = []
+lista1 = []
 for j in range(3):
-    lst0.append([])
+    lista1.append([])
     for i in range(4):
-        lst0[j].append(str(j) + ":" + str(i))
+        lista1[j].append(str(j) + ":" + str(i))
 
 lst1 = [[str(j) + ":" + str(i) for i in range(4)] for j in range(3)]
 
 
-for i in lst0:
+for i in lista1:
     print(i)
 
 for i in lst1:
     print(i)
-pass
+
 
 lst1 = [[[str(x) + "-" + str(y) + "-" + str(z) for z in range(4)]
          for y in range(4)] for x in range(4)]
