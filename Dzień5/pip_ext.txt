@@ -1,0 +1,17 @@
+#Instalacja modułu zewnetrznego np. mathplotlib
+pip install matplotlib
+import matplotlib
+print(matplotlib.__version__)
+pip install --upgrade matplotlib
+
+#upgrade pip
+python.exe -m pip install --upgrade pip
+
+# kompilacja
+pip install pyinstaller
+pyinstaller nazwa_twojego_skryptu.py
+# Sprawdź folder dist
+ewentualnie
+pyinstaller --onefile nazwa_twojego_skryptu.py
+
+
